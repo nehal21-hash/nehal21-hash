@@ -27,7 +27,7 @@
 - 🏆 Competitive programmer with **1,500+ problems** solved across Codeforces, LeetCode and CodeChef
 - ⚙️ Backend & systems engineer: Django, real-time apps with WebSockets, and networking in C++
 - 💼 Previously **Software Developer Intern** at **AV Music Company**
-- 🤝 Organizing team at **CP Club, JMI** and **GDG JMI**, and I mentor juniors in graphs & complexity optimization
+
 
 ---
 
