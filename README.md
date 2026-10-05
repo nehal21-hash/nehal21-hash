@@ -14,7 +14,7 @@
   <a href="https://codeforces.com/profile/Nehal23"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://leetcode.com/u/Nehal21/"><img src="https://img.shields.io/badge/LeetCode-Guardian_2185-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/nehal212"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85_1800%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <img src="https://img.shields.io/badge/ICPC-Regionalist_2025--26-005BAC?style=for-the-badge" alt="ICPC" />
+  <a href="https://icpc.global/ICPCID/OYABDMSEQYQG"><img src="https://img.shields.io/badge/ICPC-Regionalist_2025--26-005BAC?style=for-the-badge" alt="ICPC" /></a>
 </p>
 
 </div>
@@ -35,7 +35,7 @@
 
 | Platform | Achievement |
 |:--|:--|
-| 🌏 **ICPC** | Regionalist 2025–26, qualified for the **Amritapuri–Mysuru Regional** |
+| 🌏 **[ICPC](https://icpc.global/ICPCID/OYABDMSEQYQG)** | Regionalist 2025–26, qualified for the **Amritapuri–Mysuru Regional** ([verify](https://icpc.global/ICPCID/OYABDMSEQYQG)) |
 | 🔵 **[Codeforces](https://codeforces.com/profile/Nehal23)** | **Expert**, 750+ problems (constructive algorithms & DP) |
 | 🟠 **[LeetCode](https://leetcode.com/u/Nehal21/)** | **Guardian**, rating **2185** (top 3% globally) |
 | 🟤 **[CodeChef](https://www.codechef.com/users/nehal212)** | **4★**, rating 1800+ |
